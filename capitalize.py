@@ -314,7 +314,7 @@ own. It seems only yesterday that I left my mother and father to pursue greed to
 			os.system('clear')
 
 
-		if currentSquare >= 100:
+		if currentSquare >= 99:
 			print("You've seen the white light. Go tell your mother!\n")
 			print("[Press ENTER to walk into the light]")
 			input()
