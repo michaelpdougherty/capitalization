@@ -133,7 +133,7 @@ own. It seems only yesterday that I left my mother and father to pursue greed to
 	weirdAnswers = [None] * 10
 
 	chemicals = ["carbon", "boron", "beryllium", "cesium", "lead", "mercuy", "iron", "copper", "gold", "ytterbium"]
-	symbols = ["C", "B", "Be", "Cs", "Pb", "Hg", "Fe", "Cu", "Au", "Yt"]
+	symbols = ["C", "B", "Be", "Cs", "Pb", "Hg", "Fe", "Cu", "Au", "Yb"]
 
 	historyQuestions = ["When was the War of 1812?",
 						"Who killed John F. Kennedy?",
@@ -169,7 +169,7 @@ own. It seems only yesterday that I left my mother and father to pursue greed to
 						"Type the name of what scissors beats",
 						"Type this whole sentence backwards forwards"]
 
-	weirdAnswers = ['sixsixsixsixsixsix', '>', '#', '&', 'Mississippi', 'https://', 'Kansas', 'Scyther', 'rock', 'Type this whole sentence backwards forwards']
+	weirdAnswers = ['sixsixsixsixsixsix', '>', '#', '&', 'Mississippi', 'https://', 'Kansas', 'Scyther', 'paper', 'Type this whole sentence backwards forwards']
 
 	# Challenges 1-60: Chemistry, History, Trivia, and Random
 	for i in range(60, 100):
